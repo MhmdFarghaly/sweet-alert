@@ -1,0 +1,4 @@
+#Sun May 13 05:27:22 EET 2018
+base.0=/home/User/GraduationProject/sweet-alert/sample/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex
