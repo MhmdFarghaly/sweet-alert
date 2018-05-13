@@ -4,7 +4,7 @@
             "outputFile": "/home/User/GraduationProject/sweet-alert/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/User/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.0.aar/0b711cc9ede6dd7e227ca7a858804a2f/res/values-w600dp/values.xml",
+                    "source": "/home/User/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.0.aar/7c2b3199542ce6ca39d29dc2c59b3c2d/res/values-w600dp/values.xml",
                     "from": {
                         "startLines": "3,5",
                         "startColumns": "4,4",
